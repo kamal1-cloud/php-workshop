@@ -1,6 +1,5 @@
 # php-workshop
 
-# php-workshop
 # **Enoncé 1**
 
 Dans ce travail, nous apprendrons à utiliser le moteur de template intégré, le shell interactif de PHP, et à attribuer et utiliser des variables. À la fin, vous serez en mesure de le faire :
